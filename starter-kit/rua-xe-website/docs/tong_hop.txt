@@ -1,0 +1,5 @@
+=== TONG HOP LOG ===
+2025-10-28 08:51:28 [WARNING] Thoi gian tai trang cham
+2025-10-28 08:54:28 [WARNING] Anh san pham dung luong lon
+2025-10-28 08:57:28 [WARNING] Thoi gian tai trang cham
+So dong ERROR: 6
